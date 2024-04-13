@@ -88,7 +88,7 @@ export default function Index() {
   <Card className="relative group overflow-hidden rounded-lg">
     <CardContent className="p-1 bg-gradient-to-r from-gray-200 via-gray-600 to-gray-950 bg-300% animate-gradient">
       <Button asChild>
-        <Link to="https://github.com/rajeshdavidbabu/remix-shadcn-starter">
+        <Link to="https://twitter.com/pinkfootsol">
           Twitter/𝕏
         </Link>
       </Button>
@@ -97,7 +97,7 @@ export default function Index() {
   <Card className="relative group overflow-hidden rounded-lg">
     <CardContent className="p-1 bg-gradient-to-r from-white via-blue-500 to-blue-700 bg-300% animate-gradient">
       <Button asChild>
-        <Link to="https://github.com/rajeshdavidbabu/remix-shadcn-starter">
+        <Link to="https://t.me/pinkfootcommunity">
           Telegram
         </Link>
       </Button>
