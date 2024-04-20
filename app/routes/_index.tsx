@@ -104,7 +104,7 @@ export default function Index() {
     </CardContent>
   </Card>
   <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-  <Link to="https://pump.fun/board">
+  <Link to="https://pump.fun/GeLfnnkegZs6vdAS2g5QU9woGEQ3ERuJwAJuhoPfqvsU">
         Buy from Pump.fun
         </Link>
       </button>
