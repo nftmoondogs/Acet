@@ -104,7 +104,7 @@ export default function Index() {
     </CardContent>
   </Card>
   <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-  <Link to="https://dexscreener.com/solana/7sjd8zqgvfhpfpxvpg5gym9zsziskrbl3fc4xwf3pfms">
+  <Link to="https://dexscreener.com/solana/9chby6cfhdaa2nsouh7jcx4cdjxrthydq2rwb832ygmc">
         Buy from Moonshot🟢🌙
         </Link>
       </button>
