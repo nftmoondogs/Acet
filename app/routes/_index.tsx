@@ -97,14 +97,14 @@ export default function Index() {
   <Card className="relative group overflow-hidden rounded-lg">
     <CardContent className="p-1 bg-gradient-to-r from-white via-blue-500 to-blue-700 bg-300% animate-gradient">
       <Button asChild>
-        <Link to="https://t.me/pinkfootcommunity">
+        <Link to="https://t.me/pinkfoottelegram">
           Telegram
         </Link>
       </Button>
     </CardContent>
   </Card>
   <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-  <Link to="https://dexscreener.com/solana/2uufnbcrfpawadap3rrskwvy81y6dcqfj1tdhngt11vx">
+  <Link to="https://dexscreener.com/solana/">
         Buy from Moonshot🟢🌙
         </Link>
       </button>
