@@ -15,7 +15,7 @@ export function Hero3DCard() {
           translateZ="60"
           className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
         >
-          After completing bonding curve on MoonShot🟢🌙 we will, get it listed everywhere and start crazy marketing to instantly send it to Million Dollar MC within 2 days is the aim
+          After completing bonding curve on Pump.Fun💊 we will, get it listed everywhere and start crazy marketing to instantly send it to Million Dollar MC within 2 days is the aim
         </CardItem>
         <CardItem
           translateZ="100"

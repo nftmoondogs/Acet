@@ -77,10 +77,10 @@ export default function Index() {
             </span>{" "}
             Token PreSale is now live on{" "}
             <Link
-              to="https://dexscreener.com/moonshot"
+              to="https://pump.fun/board"
               className="font-extrabold bg-gradient-to-r from-emerald-100 via-emerald-500 to-emerald-50 text-transparent bg-clip-text bg-300% animate-gradient hover:text-emerald-500"
             >
-              Moonshot🟢🌙
+              Pump.Fun💊
             </Link>
           </h1>
 
@@ -104,8 +104,8 @@ export default function Index() {
     </CardContent>
   </Card>
   <button className="px-8 py-2 rounded-md bg-teal-500 text-white font-bold transition duration-200 hover:bg-white hover:text-black border-2 border-transparent hover:border-teal-500">
-  <Link to="https://dexscreener.com/moonshot">
-        Buy from Moonshot🟢🌙
+  <Link to="https://pump.fun/board">
+        Buy from Pump.Fun💊
         </Link>
       </button>
 </div>
